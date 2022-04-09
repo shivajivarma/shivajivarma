@@ -5,6 +5,20 @@
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I play CS:GO
 
+### Connect with me:
+
+[![website](./connect/globe-light.svg)](https://shivajivarma.com#gh-light-mode-only)
+[![website](./connect/globe-dark.svg)](https://shivajivarma.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./connect/twitter-light.svg)](https://twitter.com/shivaji_varma#gh-light-mode-only)
+[![website](./connect/twitter-dark.svg)](https://twitter.com/shivaji_varma#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./connect/youtube-light.svg)](https://www.youtube.com/c/ShivajiVarmaPusapatiVenkata#gh-light-mode-only)
+[![website](./connect/youtube-dark.svg)](https://www.youtube.com/c/ShivajiVarmaPusapatiVenkata#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./connect/linkedin-light.svg)](https://linkedin.com/in/shivajivarma#gh-light-mode-only)
+[![website](./connect/linkedin-dark.svg)](https://linkedin.com/in/shivajivarma#gh-dark-mode-only)
+
 ### Languages and Tools :
 
 <p>
