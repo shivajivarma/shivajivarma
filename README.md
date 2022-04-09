@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-#### I'm Shivaji, a Polyglot fullstack developer from India.
+#### I'm Shivaji, a Polyglot full stack developer from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I play CS:GO
