@@ -2,7 +2,7 @@
 
 #### I'm Shivaji, a Polyglot full stack developer from India.
 
-🔭 I’m current working as a Staff Software Engineer, having more than 9 years experience, contributing to architecture, frontend and backend in building cloud based applications.
+🔭 I’m currently working as a Staff Software Engineer, having more than 9 years experience, contributing to architecture, frontend and backend in building cloud based applications.
 
 ⚡ In my free time I play CS:GO
 
