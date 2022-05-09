@@ -2,8 +2,12 @@
 
 #### I'm Shivaji, a Polyglot full stack developer from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I play CS:GO
+🔭 I’m current working as a Staff Software Engineer, having more than 9 years experience, contributing to architecture, frontend and backend in building cloud based applications.
+
+⚡ In my free time I play CS:GO
+
+__Fun fact__: You can find my name in the list of 
+jQuery authors.
 
 ### Connect with me:
 
