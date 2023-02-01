@@ -17,8 +17,8 @@ jQuery authors.
 [![website](./connect/twitter-light.svg)](https://twitter.com/shivaji_varma#gh-light-mode-only)
 [![website](./connect/twitter-dark.svg)](https://twitter.com/shivaji_varma#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./connect/youtube-light.svg)](https://www.youtube.com/c/ShivajiVarmaPusapatiVenkata#gh-light-mode-only)
-[![website](./connect/youtube-dark.svg)](https://www.youtube.com/c/ShivajiVarmaPusapatiVenkata#gh-dark-mode-only)
+[![website](./connect/youtube-light.svg)](https://www.youtube.com/@shivajivarma#gh-light-mode-only)
+[![website](./connect/youtube-dark.svg)](https://www.youtube.com/@shivajivarma#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./connect/linkedin-light.svg)](https://linkedin.com/in/shivajivarma#gh-light-mode-only)
 [![website](./connect/linkedin-dark.svg)](https://linkedin.com/in/shivajivarma#gh-dark-mode-only)
