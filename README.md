@@ -1,27 +1,19 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-#### I'm Shivaji, A Polyglot programmer from India.
+### Staff Software Engineer & Architect | Open Source Maintainer
 
-🔭 I’m currently working as a Staff Software Engineer, having more than 12 years experience, contributing to architecture, frontend and backend in building cloud based applications.
+Based in India with over 12 years of experience, I architect and scale cloud-based applications from the ground up. I specialize in bridging the gap between high-fidelity UI and robust backend systems—managing everything from Lit-based component libraries to enterprise schemas, server provisioning, and DNS configuration.
 
-⚡ In my free time I play CS:GO
+I’m in this for the long run. Since 2010, I’ve been a dedicated contributor to the open-source ecosystem, currently maintaining 10+ npm packages focused on performance and developer experience.
 
-__Fun fact__: You can find my name in the list of 
-jQuery authors.
+### 🚀 Key Projects
+[Peacock](https://peacock.redvars.com) – A light weight customisable web component library built with Lit.
 
-### Connect with me:
+[Redvars](https://redvars.com/) – A low-code platform for architecting enterprise-grade web applications.
 
-[![website](./connect/globe-light.svg)](https://shivajivarma.com#gh-light-mode-only)
-[![website](./connect/globe-dark.svg)](https://shivajivarma.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./connect/twitter-light.svg)](https://twitter.com/shivaji_varma#gh-light-mode-only)
-[![website](./connect/twitter-dark.svg)](https://twitter.com/shivaji_varma#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./connect/youtube-light.svg)](https://www.youtube.com/@shivajivarma#gh-light-mode-only)
-[![website](./connect/youtube-dark.svg)](https://www.youtube.com/@shivajivarma#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./connect/linkedin-light.svg)](https://linkedin.com/in/shivajivarma#gh-light-mode-only)
-[![website](./connect/linkedin-dark.svg)](https://linkedin.com/in/shivajivarma#gh-dark-mode-only)
+[Redvars ORM](https://github.com/redvars/orm) – A modern, type-safe ORM designed for complex enterprise schemas in the TS/JS ecosystem.
+
+UtilityJS – Reusable ESM modules for Deno, Node, and Bun, published on JSR.
 
 ### Languages and Tools :
 
